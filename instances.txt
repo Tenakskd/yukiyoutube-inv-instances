@@ -1,8 +1,10 @@
 [
   r"https://clips.im.allmendenetz.de/", # 追加
 
-  # DNS r"https://inv.bp.projectsegfau.lt/",
-
+  # DNS r"https://inv.bp.projectsegfau.lt/"  
+  r"https://ade2ab15.piped.pages.dev",
+  r"https://weblate.piped.pages.dev", # 追加
+  r"https://a2879ef1.piped.pages.dev # 追加
   r"https://inv.nadeko.net/",
   r"https://inv.odyssey346.dev/", # 追加
   r"https://inv.privacy.com.de/",
@@ -10,7 +12,7 @@
   r"https://inv.tux.pizza/",
   r"https://inv.us.projectsegfau.lt/", # 追加
   r"https://inv.vern.cc/",
-
+  r"https://e1cd6428.piped.pages.dev/" #追加
   r"https://invi.susurrando.com/", # 追加
 
   # DNS r"https://invidio.xamh.de/",
