@@ -1,5 +1,6 @@
 [
 r"https://inv.bp.projectsegfau.lt/",
+r"https://invidious.nietzospannend.nl/",
 r"https://invidious.ethibox.fr/",
 r"https://invidious.baczek.me/",
 r"https://invidious.private.coffee/",
